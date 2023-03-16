@@ -1,0 +1,33 @@
+.title{
+    text-align: center;
+}
+
+#addNewUserBtn{
+    margin: 1rem auto;
+   position: absolute;
+   right: 16.7rem;
+   padding: 0.6rem;
+   color: white;
+   background-color:purple;
+   border: none;
+   outline: none;
+   border-radius: 0.5rem;
+   cursor: pointer;
+   font-weight: bold;
+   text-decoration: none;
+
+}
+
+#addNewUserBtn:hover{
+    background-color: blueviolet;
+    color: orange;
+    border-radius: 5rem;
+}
+
+
+
+
+
+
+
+

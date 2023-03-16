@@ -1,0 +1,45 @@
+
+.row > td,th{
+    padding: 0.8rem;
+   
+  
+}
+.row > td > a,
+.row > td > button{
+padding: 0.5rem 1rem;
+color: white;
+cursor: pointer;
+border: none;
+border-radius: 0.5rem;
+text-decoration: none;
+font-size: 15px;
+}
+
+.row > td > a:hover{
+    background-color: blueviolet;
+    color: black;
+    border-radius: 5rem;
+
+}
+
+
+.row > td > button:hover{
+    background-color: blueviolet;
+    color: black;
+    border-radius: 5rem;
+
+}
+
+#editBtn{
+background-color: green;
+}
+
+#deleteBtn{
+background-color: red;
+}
+
+
+
+
+
+

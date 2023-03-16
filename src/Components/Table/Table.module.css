@@ -1,0 +1,46 @@
+#infoTable{
+    /* background-color:transparent; */
+
+    border-collapse: collapse;
+    padding: 1rem;
+    margin: auto;
+
+    margin-top: 4rem;
+
+    /* glassboard effect */
+    /* From https://css.glass */
+    
+background: rgba(255, 255, 255, 0.2);
+/* border-radius: 16px; */
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(5px);
+-webkit-backdrop-filter: blur(5px);
+border: 1px solid rgba(255, 255, 255, 0.3);
+
+
+}
+
+/* for media query */
+/* 
+@media screen and (max-width:450px){
+    #infoTable{
+        background-color: purple;
+        height: 100vh;
+        width: 100vw;
+        
+    }
+    
+}
+
+
+
+@media screen and (max-width:850px){
+    #infoTable{
+        background-color: red;
+        height: 100vh;
+        width: 100vw;
+        margin: auto;
+    }
+
+}
+ */
